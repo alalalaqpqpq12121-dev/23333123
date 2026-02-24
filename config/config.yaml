@@ -67,8 +67,8 @@ platforms:
       name: "bilibili 热搜"
     - id: "cls-hot"
       name: "财联社热门"
-    - id: "xiaohongshu"
-      name: "小红书"
+    - id: "bilibili-hot-search"
+      name: "bilibili 热搜"
     - id: "tieba"
       name: "贴吧"
     - id: "weibo"
@@ -77,7 +77,8 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
-
+    - id: "tencent-hot"
+      name: "腾讯新闻 综合早报"
 
 
 # ===============================================================
